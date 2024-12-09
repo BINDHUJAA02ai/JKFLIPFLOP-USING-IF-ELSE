@@ -40,6 +40,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 4.Analyze Results: Analyze results, take screenshots, and generate report.
 
 **PROGRAM**
+
+ Developed by: Bindhujaa.S
+ RegisterNumber:24901119
 ```
 module experiment7(J,K,clk,q,qbar);
 input J,K,clk;
@@ -55,8 +58,6 @@ end
 endmodule
 ```
 
- Developed by: Bindhujaa.S
- RegisterNumber:24901119
 
 
 **RTL LOGIC FOR FLIPFLOPS**
@@ -69,4 +70,5 @@ endmodule
 
 
 **RESULTS**
+
 JK flipflop using verilog and validating their functionality using their functional tables is done
