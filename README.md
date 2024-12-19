@@ -1,4 +1,9 @@
-# JKFLIPFLOP-USING-IF-ELSE
+Name:Bindhujaa.S
+
+RegisterNo:24901119
+
+
+**Experiment7:JKFLIPFLOP-USING-IF-ELSE**
 
 **AIM:** 
 
@@ -7,8 +12,6 @@ To implement  JK flipflop using verilog and validating their functionality using
 **SOFTWARE REQUIRED:**
 
 Quartus prime
-
-**THEORY**
 
 **JK Flip-Flop**
 
@@ -35,28 +38,18 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **Procedure**
 
 1.Set Inputs: Configure switches for J and K inputs.
+
 2.Run Simulation: Simulate circuit to see output on LEDs.
+
 3.Check Truth Table: Verify output with JK Flip Flop truth table.
+
 4.Analyze Results: Analyze results, take screenshots, and generate report.
 
 **PROGRAM**
 
- Developed by: Bindhujaa.S
- RegisterNumber:24901119
-```
-module experiment7(J,K,clk,q,qbar);
-input J,K,clk;
-output reg q;
-output reg qbar;
-initial q=0;
-initial qbar=1;
-always @(posedge clk)
-begin
-q=((J&(~q))|((~K)&q));
-qbar=~q;
-end
-endmodule
-```
+
+![Screenshot 2024-12-19 214749](https://github.com/user-attachments/assets/5a2a7a4d-e266-4ad9-a586-32b75b33917f)
+
 
 
 
@@ -66,7 +59,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Screenshot 2024-12-09 204659](https://github.com/user-attachments/assets/4b56c741-8b0b-4a98-bd6b-0036cfd46061)
+
+![Screenshot 2024-12-19 214828](https://github.com/user-attachments/assets/c6e96088-41d8-4e8e-a6a6-3e1414e9e449)
 
 
 **RESULTS**
