@@ -3,7 +3,7 @@ Name:Bindhujaa.S
 RegisterNo:24901119
 
 
-**Experiment7:JKFLIPFLOP-USING-IF-ELSE**
+**Experiment5:IMPLEMENTATION OF JKFLIPFLOP-USING-IF-ELSE**
 
 **AIM:** 
 
