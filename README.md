@@ -37,19 +37,23 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-1.Set Inputs: Configure switches for J and K inputs.
-
-2.Run Simulation: Simulate circuit to see output on LEDs.
-
-3.Check Truth Table: Verify output with JK Flip Flop truth table.
-
-4.Analyze Results: Analyze results, take screenshots, and generate report.
+step-1 Go to Quartus software.
+ 
+ step-2 Set new environment.
+ 
+ step-3 Type the code to implement SR flipflop using Verilog and validate their functionality using
+ their functional tables.
+ 
+ step-4 Run the program.
+ 
+ step-5 Give inputs in the waveform table.
+ 
+ step-6 Run the program.
 
 **PROGRAM**
 
 
-![Screenshot 2024-12-19 214749](https://github.com/user-attachments/assets/5a2a7a4d-e266-4ad9-a586-32b75b33917f)
-
+![17362290696322226041717544326238](https://github.com/user-attachments/assets/859f4b97-a1ae-4ca4-b77c-e75ec61f8ead)
 
 
 
@@ -60,7 +64,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot 2024-12-19 214828](https://github.com/user-attachments/assets/c6e96088-41d8-4e8e-a6a6-3e1414e9e449)
+![image](https://github.com/user-attachments/assets/3548b0bc-8f2c-4527-bd28-3cda3d2ed03c)
+
 
 
 **RESULTS**
